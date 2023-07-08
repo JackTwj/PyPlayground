@@ -1,0 +1,2 @@
+To run face age detection:
+python detect_age.py --image images/adrian.png --face face_detector --age age_detector
